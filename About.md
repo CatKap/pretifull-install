@@ -9,12 +9,32 @@
 
 
 # Я увлекаюсь...
-    Да много чем увлекаюсь.
-    1. Учусь играть на пианике
-    2. Пишу стихи иногда 
-    3. Люблю читать книги (правда в последнее время времени мало)
+Да много чем увлекаюсь.
+- Учусь играть на пианике
+- Пишу стихи иногда 
+    I cannot judge another people spirit,
+    From suffering or freedom which was born,
+    By using dead and most unlighted digits,
+    Who just is nothing to beware of the soul,
+    
+    Which burning in the life of every person,
+    And storming waves, who breaks unscratched stone,
+    The wishes, prays, forgiveness -- endless cauldron,
+    Filled inspiration by a heartbeat flow! 
+    
+    And never land, 
+    My dear friend,
+    
+    On such a icely, moody barrier,
+    Who wants be so temptated -- end,
+    Will leave alone with horror carrier:
+    On river Sticks with boat stands,
+    And no return     --     his own demands. 
 
-    4. Программированием (хочу создавать что-то )
+- Люблю читать книги (правда в последнее время времени мало)
+
+
+- Программированием (хочу создавать что-то!)
 ```C
 next_day:
     while(!tired){
@@ -31,6 +51,7 @@ next_day:
 
 
 # Крестики-нолики
+|   |   |   |
 |:-:|:-:|:-:|   
 | X | O | X |
 | O | X | O | 
