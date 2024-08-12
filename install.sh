@@ -16,7 +16,7 @@ confirm() {
 
 
 # Install kitty 
-if ! kitty; then
+if ! test -e /bin/kitty; then
   echo "Установка kitty >^ ^<"
   curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin launch=n
   
