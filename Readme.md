@@ -1,7 +1,7 @@
 
 # Привет!
 
-Этот **ВАЖНО** *zsh* скрипт для автоатической установки терминала [**kitty**](https://sw.kovidgoyal.net/kitty/) & [**Nvim**](https://neovim.io/) c [**NvChad**](https://nvchad.com/)! 
+Этот (**ВАЖНО**) *zsh* скрипт для автоатической установки терминала [**kitty**](https://sw.kovidgoyal.net/kitty/) & [**Nvim**](https://neovim.io/) c [**NvChad**](https://nvchad.com/)! 
 
 
 # Использование 
