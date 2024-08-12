@@ -9,7 +9,6 @@
 Просто склонируй и запусти!
 
 ```
-
 git clone https://github.com/CatKap/pretifull-install.git
 cd pretifull-install/
 ./pretty-install.sh
