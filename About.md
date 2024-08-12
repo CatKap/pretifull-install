@@ -14,24 +14,39 @@
 - Пишу стихи иногда 
 
 
-    I cannot judge another people spirit,
+    **I cannot judge another people spirit,
+
     From suffering or freedom which was born,
+
     By using dead and most unlighted digits,
+
     Who just is nothing to beware of the soul,
-    
+   
+
+
     Which burning in the life of every person,
+
     And storming waves, who breaks unscratched stone,
+
     The wishes, prays, forgiveness -- endless cauldron,
+
     Filled inspiration by a heartbeat flow! 
-    
+   
+
     And never land, 
+
     My dear friend,
+
     
     On such a icely, moody barrier,
+
     Who wants be so temptated -- end,
+
     Will leave alone with horror carrier:
+
     On river Sticks with boat stands,
-    And no return     --     his own demands. 
+
+    And no return     --     his own demands. **
 
 - Люблю читать книги (правда в последнее время времени мало)
 
