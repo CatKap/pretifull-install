@@ -12,6 +12,8 @@
 Да много чем увлекаюсь.
 - Учусь играть на пианике
 - Пишу стихи иногда 
+
+
     I cannot judge another people spirit,
     From suffering or freedom which was born,
     By using dead and most unlighted digits,
