@@ -1,28 +1,30 @@
 
-# This script is return last verion of Neovim
+# Привет!
 
-```mermaid
-sequenceDiagram
-Your PC ->> GitHub: Hello Git, get lastest nvim
-GitHub ->> Your PC: Yes, take the version!
-```
+Этот **ВАЖНО** *zsh* скрипт для автоатической установки терминала [**kitty**](https://sw.kovidgoyal.net/kitty/) & [**Nvim**](https://neovim.io/) c [**NvChad**](https://nvchad.com/)! 
 
-## Usage 
-```
-$ ./version.py
-0.10.0
+
+# Использование 
+
+Просто склонируй и запусти!
+
 ```
 
-## Requirements
-- [Python3](https://www.python.org/)
-- [Requsts](https://pypi.org/project/requests/)
-- [re](https://docs.python.org/3/library/re.html) (built-in module)
-You can install requests with pip
+git clone https://github.com/CatKap/pretifull-install.git
+cd pretifull-install/
+./pretty-install.sh
 ```
-pip install requests
+Скрипт установит *kitty* и 
+# Примечания
+
+Не забудь потом выбрать тему из пакета [*kitty-themes*](https://github.com/dexpota/kitty-themes), для этого просто пропиши в файле *~/.config/kitty/kitty.conf* 
 ```
-## Version 
-0.0.1 
+include ~/.config/kitty/kitty-themes/themes/{*Имя темы*}
+```
+
+
+
+### Да, это немного, но зато это честная работа :)
 
 
 

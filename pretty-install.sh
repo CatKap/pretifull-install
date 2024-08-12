@@ -26,12 +26,6 @@ echo "Установка тем для kitty >>^ ^<<"
 git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
 
 
-
-
-
-
-
-
 # Install nvim
 mv_dirs(){
   cd ./nvim-linux64/
@@ -66,7 +60,7 @@ if [[ $s -lt 10 ]] ; then
   echo "NvChad не может работать с такой версией nvim! ($T_V)"
   echo "Удалите nvim с помощью вашего пакетного менеджера и затем перазапустите скрипт."
 else
-  echo "Гений программист гениально ставит NvChad под музыку Иу-Иу"
+  echo "Гений программист гениально ставит NvChad под музыку Иу-Иу!"
   git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 fi
 
